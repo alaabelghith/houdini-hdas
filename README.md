@@ -1,4 +1,4 @@
-﻿# houdini-hdas
+# houdini-hdas
 
 Houdini digital assets I built and published. Each one is a procedural tool with exposed
 parameters — drop it in a SOP network and drive it. Written with VEX inside, no Python
