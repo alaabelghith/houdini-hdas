@@ -1,4 +1,4 @@
-# houdini-hdas
+﻿# houdini-hdas
 
 Houdini digital assets I built and published. Each one is a procedural tool with exposed
 parameters — drop it in a SOP network and drive it. Written with VEX inside, no Python
@@ -19,7 +19,7 @@ The first six are also on [Gumroad](https://belguithala.gumroad.com) with a vide
 
 ## New — `alaa.knitting_effect`
 
-<p align="center"><img src="media/knitting_effect.gif" width="360" alt="Knitting effect growing a club crest"></p>
+<p align="center"><img src="media/knitting_effect_crest.jpg" width="360" alt="A club crest knitted with the asset"></p>
 
 Feed it a logo (traced to vectors, as polygons) and it grows the logo as knitted cloth: a radius
 and remap ramp drive the reveal, the stitches get rows, randomness and noise, and the yarn is swept
